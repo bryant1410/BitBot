@@ -1,4 +1,4 @@
-#BitBot
+# BitBot
 
 BitBot is a Crypto-Currency trading bot and backtesting platform that connects to popular Bitcoin exchanges (Bitstamp, Kraken). It is written in javascript and runs on [Node.JS](http://nodejs.org).
 
